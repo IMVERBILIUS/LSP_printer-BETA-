@@ -1,0 +1,49 @@
+body{
+    background: #ddd;
+}
+
+.container-box{
+    width: 400px;
+    height: 380px;
+    background: #ffff;
+    margin: 0 auto;
+    margin-top: 30px;
+    padding: 30px;
+    border-radius: 15px;
+}
+
+h3{
+    line-height: 2px;
+}
+
+form{
+    margin-top: 40px;
+}
+
+.form-control{
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+    margin-top: 10px;
+    border: 1px solid #ddd;
+    border-radius: 30px;
+}
+
+button{
+    width: 100%;
+    padding: 12px;
+    border: none;
+    border-radius: 30px;
+    background: rgb(91, 91, 255);
+    color: #ffff;
+}
+
+.register{
+    text-align: center;
+    margin-top: 20px;
+}
+
+.register a{
+    text-decoration: none;
+    color: rgb(66, 110, 255);
+}
